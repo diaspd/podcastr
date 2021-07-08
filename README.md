@@ -50,7 +50,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <br></br>
 
-##📄 Project
+## 📄 Project
 💰Projeto para escutar podcasts
 
 <br></br>
