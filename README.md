@@ -48,12 +48,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - TypeScript
 - React
 
-<br></br>
 
 ## 📄 Project
 💰Projeto para escutar podcasts
 
-<br></br>
 
 ## 🔖 Layout
 You can view the project layout through the links below:
