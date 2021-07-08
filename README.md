@@ -1,5 +1,5 @@
 <h1 align="center">
-  Título
+  Podcaster
 </h1>
 
 <br></br>
@@ -43,12 +43,10 @@ The app will be available for access on your browser at http://localhost:3000
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- 
-- 
-- 
--
--
--
+- SASS
+- NextJs
+- TypeScript
+- React
 
 <br></br>
 
@@ -59,6 +57,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔖 Layout
 📄
+You can view the project layout through the links below:
+
+[Layout Web](https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr?node-id=160%3A2761) 
+
+Remembering that you need to have a [Figma](http://figma.com/) account to access it.
 
 <br></br>
 Feito com ♥ by Pedro Dias (😎)<br></br>
