@@ -13,7 +13,7 @@
 <br>
 
 <h1 align="center">
-  <img alt="" title="" src="" width="100%" />
+  <img alt="Podcastr" title="" src="./podcastr.svg" width="100%" />
 </h1>
 
 
@@ -50,13 +50,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <br></br>
 
-## 💻 Project
-💰
+##📄 Project
+💰Projeto para escutar podcasts
 
 <br></br>
 
 ## 🔖 Layout
-📄
 You can view the project layout through the links below:
 
 [Layout Web](https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr?node-id=160%3A2761) 
