@@ -50,7 +50,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 
 ## 📄 Project
-💰Projeto para escutar podcasts
+💰Project to listen to podcasts
 
 
 ## 🔖 Layout
