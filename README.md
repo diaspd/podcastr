@@ -46,7 +46,7 @@ This project was developed with the following technologies:
 - SASS
 - NextJs
 - TypeScript
-- React
+- ReactJs
 
 
 ## 📄 Project
