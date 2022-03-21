@@ -1,6 +1,6 @@
-<h1 align="center">
-  Podcaster
-</h1>
+<div align="center" >
+  <img src="./public/logo.svg" alt="Podcastr logo">
+</div>
 
 <br></br>
 
