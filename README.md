@@ -1,5 +1,5 @@
-<div align="center" >
-  <img src="./public/logo.svg" alt="Podcastr logo">
+<div align="center">
+  <img src="./public/logo.svg" alt="Podcastr logo" width="30%">
 </div>
 
 <br></br>
