@@ -50,7 +50,7 @@ This project was developed with the following technologies:
 </b>
 
 ## 📄 Project
-💰Project to listen to podcasts.
+💰 Project to listen to podcasts.
 
 
 ## 🔖 Layout
