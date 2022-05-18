@@ -49,6 +49,8 @@ This project was developed with the following technologies:
 - ReactJs
 </b>
 
+<br></br>
+
 ## 📄 Project
 💰 Project to listen to podcasts.
 
