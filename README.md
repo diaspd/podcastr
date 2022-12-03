@@ -23,7 +23,7 @@
 Clone the project and access the folder.
 
 ```bash
-$ git@github.com:diaspd/Podcastr.git
+$ git clone https://github.com/diaspd/podcastr.git
 $ cd 
 ```
 
@@ -33,7 +33,7 @@ Follow the steps below:
 $ npm i
 
 # Start the project
-$ npm start
+$ npm run dev
 ```
 The app will be available for access on your browser at http://localhost:3000
 
