@@ -16,8 +16,6 @@
   <img alt="Podcastr" title="" src="./podcastr.svg" width="100%" />
 </h1>
 
-
-
 ## 🚀 Getting started
 
 Clone the project and access the folder.
