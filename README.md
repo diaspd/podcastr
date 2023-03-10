@@ -50,15 +50,15 @@ This project was developed with the following technologies:
 ## 📄 Project
 💰 Project to listen to podcasts.
 
+</br>
 
 ## 🔖 Layout
-You can view the project layout through the links below:
-
-[Layout Web](https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr?node-id=160%3A2761) 
+You can view the project layout through this link: [Layout Web](https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr?node-id=160%3A2761) 
 
 Remembering that you need to have a [Figma](http://figma.com/) account to access it.
 
 <br></br>
+
 Made with ♥ by Pedro Dias. 👋 Follow me on social media! <br></br>
 
 If you can give a little star, I appreciate it 🤩
