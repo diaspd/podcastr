@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="./public/logo.svg" alt="Podcastr logo" width="30%">
+ <h1> <img src="./public/logo.svg" alt="Podcastr logo" width="30%"> </h1>
 </div>
-
-<br></br>
 
 <p align="center">
   <a href="#-Technologies"><b>Technologies</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -10,7 +8,7 @@
   <a href="#-Layout"><b>Layout</b></a>&nbsp;&nbsp;&nbsp;
 </p>
 
-<br>
+<br></br>
 
 <h1 align="center">
   <img alt="Podcastr" title="" src="./podcastr.svg" width="100%" />
