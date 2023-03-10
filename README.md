@@ -10,9 +10,9 @@
 
 <br></br>
 
-<h1 align="center">
+<div align="center">
   <img alt="Podcastr" title="" src="./podcastr.svg" width="100%" />
-</h1>
+</div>
 
 ## 🚀 Getting started
 
