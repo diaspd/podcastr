@@ -59,6 +59,6 @@ Remembering that you need to have a [Figma](http://figma.com/) account to access
 
 <br></br>
 
-Made with ♥ by Pedro Dias. 👋 Follow me on social media! <br></br>
+Made with ♥ by Pedro Dias. 👋 Follow me on social media! </br>
 
 If you can give a little star, I appreciate it 🤩
