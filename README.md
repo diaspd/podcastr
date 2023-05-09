@@ -11,7 +11,7 @@
 <br></br>
 
 <div align="center">
-  <img alt="Podcastr" title="" src="./podcastr.svg" width="100%" />
+  <img alt="Podcastr" title="" src="./public/project.svg" width="100%" />
 </div>
 
 ## 🚀 Getting started
