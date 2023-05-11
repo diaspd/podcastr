@@ -8,7 +8,7 @@
   <a href="#-Layout"><b>Layout</b></a>&nbsp;&nbsp;&nbsp;
 </p>
 
-<br></br>
+---
 
 <div align="center">
   <img alt="Podcastr" title="" src="./public/project.svg" width="100%" />
